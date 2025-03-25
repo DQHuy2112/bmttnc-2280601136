@@ -10,7 +10,7 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 import os
-os.environ['QT_QPA_PLATFORM_PLUGIN_PATH'] = 'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms'
+os.environ['QT_QPA_PLATFORM_PLUGIN_PATH'] = 'C:\\Users\\THUY HANG\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms'
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
